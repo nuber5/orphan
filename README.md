@@ -10,6 +10,7 @@ New features:
 - InvManager "Drop" feature and a bunch of new items (e.g. ender pearls); rekitrelt
 - Nametags "Show Absorption" option; player5 & rekitrelt
 - Nametags "Team Color" option; rekitrelt
+- Regen bypass; player5
 - Scaffold "Sideways Extend" option; player5
 - Scaffold less than 1 block per tick; rekitrelt
 - Scaffold extend by .1 instead of 1; player5
