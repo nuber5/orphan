@@ -13,4 +13,3 @@ New features:
 - Regen bypass; player5
 - Scaffold "Sideways Extend" option; player5
 - Scaffold less than 1 block per tick; rekitrelt
-- Scaffold extend by .1 instead of 1; player5
