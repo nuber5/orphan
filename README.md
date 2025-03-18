@@ -26,8 +26,8 @@ New features:
 - ChestESP separate from BlockESP;
 - Enemies feature;
 - HackerAlert module;
-- Nametags "Show Absorption" option*;
 - Nametags & ESP "Team Color" option;
+- Nametags "Show Absorption" option*;
 - OreMiner bypass*;
 - Scaffold <1 block per tick;
 
