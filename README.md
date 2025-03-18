@@ -3,31 +3,32 @@ An edit of Solstice with some new features added and garbage removed. Credit to 
 Anything removed was removed by player5 (nuber5)! Complain to him.
 Solstice is made by vastrakai and alteik, as well as a couple other contributors.
 Orphan is made by player5, rekitrelt, & EDest10. It is officially owned by player5.
+
 New features:
 ### player5
 - Alphabeticized module list;
 - Aura visual customization unlocked;
 - ClickGUI Dot visual;
 - ClickGUI Text customization;
-- Nametags "Show Absorption" option;
-- OreMiner bypass;
+- InvManager "Drop" feature + new items;
+- Nametags "Show Absorption" option*;
+- OreMiner bypass*;
 - Regen bypass;
 - Regen "Percentage Rotations" option;
 - Scaffold Diagonal Jump bypass;
 - Scaffold "Sideways Extend" option;
 
-
 ### rekitrelt
-- Aura FOV/Angles; (removed)
-- InvManager "Drop" feature and a bunch of new items (e.g. ender pearls); (removed)
-- Scaffold improved rotations; (removed)
-- Scaffold "Best Bypass Simple" + Anti-Ghosting logic; (removed)
+- (removed)  Aura FOV/Angles; 
+- (removed)  InvManager "Drop" feature + new items; 
+- (removed)  Scaffold improved rotations; 
+- (removed)  Scaffold "Best Bypass Simple" + Anti-Ghosting logic; 
 - ChestESP separate from BlockESP;
 - Enemies feature;
 - HackerAlert module;
-- Nametags "Show Absorption" option;
+- Nametags "Show Absorption" option*;
 - Nametags & ESP "Team Color" option;
-- OreMiner bypass;
+- OreMiner bypass*;
 - Scaffold <1 block per tick;
 
 ### EDest10
