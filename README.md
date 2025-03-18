@@ -5,34 +5,40 @@ Solstice is made by vastrakai and alteik, as well as a couple other contributors
 Orphan is made by player5, rekitrelt, & EDest10. It is officially owned by player5.
 New features:
 ### player5
-- Alphabeticized module list
-- Aura visual customization unlocked
-- ClickGUI Dot Visual
-- More appropriate settings value increments (e.g. 0.25 instead of 0.01)
-- Nametags "Show Absorption" option
-- OreMiner bypass
-- Regen bypass
-- Regen "Percentage Rotations" option
-- Scaffold "Sideways Extend" option
+- Alphabeticized module list;
+- Aura visual customization unlocked;
+- ClickGUI Dot visual;
+- ClickGUI Text customization;
+- Nametags "Show Absorption" option;
+- OreMiner bypass;
+- Regen bypass;
+- Regen "Percentage Rotations" option;
+- Scaffold Diagonal Jump bypass;
+- Scaffold "Sideways Extend" option;
+
 
 ### rekitrelt
 - Aura FOV/Angles; (removed)
+- InvManager "Drop" feature and a bunch of new items (e.g. ender pearls); (removed)
+- Scaffold improved rotations; (removed)
+- Scaffold "Best Bypass Simple" + Anti-Ghosting logic; (removed)
 - ChestESP separate from BlockESP;
 - Enemies feature;
 - HackerAlert module;
-- InvManager "Drop" feature and a bunch of new items (e.g. ender pearls); (removed)
 - Nametags "Show Absorption" option;
-- Nametags "Team Color" option;
+- Nametags & ESP "Team Color" option;
+- OreMiner bypass;
 - Scaffold <1 block per tick;
-- Scaffold improved rotations; (removed)
-- Scaffold "Best Bypass Simple" + Anti-Ghosting logic; (removed)
 
 ### EDest10
-- Arraylist "Opacity" mode & Horizontal Colors; EDest10
-- ClickGUI +/- Visual; EDest10
-- ClickGUI Color Blending Improvement; EDest10
-- Regen "Aeolus Progress Bar"; EDest10
-- Regen "Lerp Box"; EDest10
+- Arraylist "Opacity" mode;
+- Arraylist Horizontal Colors;
+- ClickGUI +/- visual;
+- ClickGUI color blending improvement;
+- ClickGUI settings categories/dividers;
+- Regen "Aeolus Progress Bar";
+- Regen "Lerp Box";
+- TargetHUD new style;
 
 ### Other
 - ToggleSounds "Celestial 2", "Cowbell", "Droplet"; VectorClient 
