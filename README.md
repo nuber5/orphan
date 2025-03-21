@@ -11,7 +11,7 @@ New features:
 - ClickGUI Dot visual;
 - ClickGUI Text customization;
 - InvManager "Drop" feature + new items;
-- Nametags "Show Absorption" option*;
+- Nametags "Show Absorption" option;
 - OreMiner bypass*;
 - Regen bypass;
 - Regen "Percentage Rotations" option;
@@ -20,16 +20,16 @@ New features:
 
 ### rekitrelt
 - (removed)  Aura FOV/Angles; 
-- (removed)  InvManager "Drop" feature + new items; 
+- (removed)  InvManager "Drop" feature + new items;
+- (removed)  Scaffold <1 block per tick;
 - (removed)  Scaffold improved rotations; 
-- (removed)  Scaffold "Best Bypass Simple" + Anti-Ghosting logic; 
+- (removed)  Scaffold "Best Bypass Simple" + Anti-Ghosting logic;
 - ChestESP separate from BlockESP;
 - Enemies feature;
 - HackerAlert module;
 - Nametags & ESP "Team Color" option;
-- Nametags "Show Absorption" option*;
+- OreESP "Bottom Y Limit"
 - OreMiner bypass*;
-- Scaffold <1 block per tick;
 
 ### EDest10
 - Arraylist "Opacity" mode;
