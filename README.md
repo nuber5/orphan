@@ -11,8 +11,10 @@ New features:
 - ClickGUI Dot visual;
 - ClickGUI Text customization;
 - InvManager "Drop" feature + new items;
+- - Nametags "Accurate" health toggle;
 - Nametags "Show Absorption" option;
 - OreMiner bypass*;
+- Regen "Accurate" health toggle (for Aeolus mode);
 - Regen bypass;
 - Regen "Percentage Rotations" option;
 - Scaffold Diagonal Jump bypass;
@@ -34,11 +36,17 @@ New features:
 ### EDest10
 - Arraylist "Opacity" mode;
 - Arraylist Horizontal Colors;
+- Aura FOV mode;
 - ClickGUI +/- visual;
 - ClickGUI color blending improvement;
 - ClickGUI settings categories/dividers;
+- ClickGUI Simple gui;
+- OreESP distance fading
 - Regen "Aeolus Progress Bar";
 - Regen "Lerp Box";
+- Regen settings overhaul
+- Regen "Uncover Amount";
+- TargetHUD Dynamic mode;
 - TargetHUD new style;
 
 ### Other
