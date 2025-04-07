@@ -9,9 +9,12 @@ New features:
 - Alphabeticized module list;
 - Aura visual customization unlocked;
 - ClickGUI Dot visual;
-- ClickGUI Text customization;
+- ClickGUI Font customization;
+- ClickGUI iOS bool toggles (from EDest's "Simple" GUI, added to default GUI);
+- ClickGUI Rounding options;
+- ClickGUI Shadows;
 - InvManager "Drop" feature + new items;
-- - Nametags "Accurate" health toggle;
+- Nametags "Accurate" health toggle;
 - Nametags "Show Absorption" option;
 - OreMiner bypass*;
 - Regen "Accurate" health toggle (for Aeolus mode);
@@ -39,6 +42,7 @@ New features:
 - Aura FOV mode;
 - ClickGUI +/- visual;
 - ClickGUI color blending improvement;
+- ClickGUI iOS bool toggles;
 - ClickGUI settings categories/dividers;
 - ClickGUI Simple gui;
 - OreESP distance fading
