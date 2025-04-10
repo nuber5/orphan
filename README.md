@@ -22,6 +22,7 @@ New features:
 - Regen "Percentage Rotations" option;
 - Scaffold Diagonal Jump bypass;
 - Scaffold "Sideways Extend" option;
+- Stripper module "Spoof" switch mode;
 
 ### rekitrelt
 - (removed)  Aura FOV/Angles; 
@@ -50,6 +51,7 @@ New features:
 - Regen "Lerp Box";
 - Regen settings overhaul
 - Regen "Uncover Amount";
+- Stripper module;
 - TargetHUD Dynamic mode;
 - TargetHUD new style;
 
