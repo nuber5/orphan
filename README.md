@@ -56,4 +56,7 @@ New features:
 - TargetHUD new style;
 
 ### Other
-- ToggleSounds "Celestial 2", "Cowbell", "Droplet"; VectorClient 
+- ToggleSounds "Celestial 2", "Cowbell", "Droplet"; VectorClient
+- ToggleSounds "Poppet 1", "Poppet 2"; LittleBigPlanet
+- ToggleSounds "Sigma"; SigmaClient
+- Zipline, Surround, PlaceHighlights; dark & lilycat
