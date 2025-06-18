@@ -4,6 +4,9 @@ Anything removed was removed by player5 (nuber5)! Complain to him.
 Solstice is made by vastrakai and alteik, as well as a couple other contributors.
 Orphan is made by player5, rekitrelt, & EDest10. It is officially owned by player5.
 
+Discord:
+https://discord.gg/6P4v3WG5f5
+
 New features:
 ### player5
 - Alphabeticized module list;
